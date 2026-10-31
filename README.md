@@ -1,4 +1,4 @@
-# Briefly
+# Briefly — AI-Powered Webpage Summarizer
 
 **An AI-powered browser extension that turns lengthy online articles into concise, readable summaries.**
 
